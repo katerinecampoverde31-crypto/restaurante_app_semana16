@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-10-04",
+    "producto": "Ceviche",
+    "cantidad": 2,
+    "total": 51.0,
+    "cliente": "Cliente Demo"
+  },
+  {
+    "id": 2,
+    "fecha": "2026-10-04",
+    "producto": "Lomo saltado",
+    "cantidad": 1,
+    "total": 29.0,
+    "cliente": "Cliente Demo"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ceviche",
+    "categoria": "Plato fuerte",
+    "precio": 25.5,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "nombre": "Lomo saltado",
+    "categoria": "Plato fuerte",
+    "precio": 29.0,
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Jugo de naranja",
+    "categoria": "Bebida",
+    "precio": 6.5,
+    "stock": 25
+  }
+]
